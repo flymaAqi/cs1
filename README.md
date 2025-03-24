@@ -7,7 +7,7 @@
 </div>
 
 <div align=center>
-  <img width="100%" style="border-radius: 5%;" bor src="https://www.helloimg.com/i/2025/03/24/67e0c1df2d6ee.jpg">
+  <img width="180px" style="border-radius: 5%;" bor src="https://www.helloimg.com/i/2025/03/24/67e0c1df2d6ee.jpg">
 </div>
 
 ## 前言
