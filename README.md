@@ -18,7 +18,7 @@
 
 ![](https://www.helloimg.com/i/2025/03/19/67da4ba5d60f9.png)
 
-#01.使用UniApp快速开始
+# 01.使用UniApp快速开始
 
 - 1、下载 [源码](https://github.com/flymaAqi/flyma) 并解压，复制`/commonB2`文件夹下所有文件到项目根目录(common)
 
@@ -135,7 +135,7 @@ vue3语法糖setup直接使用
 </template>
 ```
 
-#03.使用自定义导航栏
+# 03.使用自定义导航栏
 
 - 1、引入`pagesB2/componentsB2/custom-nav-bar`组件
 
@@ -209,7 +209,7 @@ import comNavTab from '../componentsB2/comNavTab/comNavTab.vue';
 | loveTipClose | 提示组件关闭 |
 | remoLove     |   取消收藏   |
 
-#05.致谢
+# 05.致谢
 
 开源/资源库
 
@@ -218,6 +218,6 @@ import comNavTab from '../componentsB2/comNavTab/comNavTab.vue';
 - MeiYe: <https://www.meiye.art/inspiration>
 - WxminiDemo: <https://gitee.com/susuhhhhhh/wxmini_demo>
 
-#06.支持
+# 06.支持
 
 项目内所有组件皆开源免费，有哪里不懂可直接联系作者，如果此项目能为您提供帮助，请点个star吧！
